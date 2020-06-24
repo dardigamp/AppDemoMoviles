@@ -1,0 +1,15 @@
+Shared Preferences
+------------------
+Ejemplo para credenciales
+
+usuario:juan
+password:123456
+Nombre:Juan
+Apellido:Perez
+Correo:jperez@gmail.com
+FecNac:15/08/1985
+
+
+Ejemplo de configuración de SCORE de Gestos
+
+scoreGesto: 10
